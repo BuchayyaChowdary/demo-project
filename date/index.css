@@ -1,0 +1,23 @@
+.calendar-container{
+    padding:20px;
+    background-color:aliceblue;
+    text-align:center;
+    height: 100vh;
+}
+.input-container{
+    margin:8px;
+}
+.error{
+    font-size:small;
+    color:#E15D44;
+    margin:4px;
+}
+.success{
+    color:#009b77;
+}
+.input-field{
+    width:100px;
+    text-align: center;
+    margin-left:4px;
+    margin-right:4px;
+}
