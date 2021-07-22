@@ -12,7 +12,7 @@ date/index.css
 server.js
 =========
 ->This file contains the nodeJS code to implement an API that accepts date as input from client through POST request.
-->I used Express to setup and initialize server to accept the request from client
+->I used Express to setup and initialize server to handle client requests
 ->I used date-fns package to work with date object
 ->If the received date is valid, It sends weekday, date, month and year to client with status code 200 
 ->If the date is invalid, it sends Invalid Date as message to client with status code 400
